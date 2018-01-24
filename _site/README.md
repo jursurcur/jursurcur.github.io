@@ -1,57 +1,50 @@
-# glas
-Glas - Rails on Ruby - Jekyll Theme 
-Preview: http://www.spaceg.github.io
-
-![Alt text](https://raw.githubusercontent.com/SpaceG/glas/master/img/glas_github.png "glas")
-
-
-GLAS  - DOM Structure
-### Structure ###
-<pre>
-.  
-|-- .sass-cache  
-|-- _data  
-|   |-- organisers.yml
-|-- _includes 
-|   |-- footer.html  
-|   |-- head.html 
-|   `-- header.html   
-|-- _layouts  
-|   |-- about.html  
-|   |-- archive.html 
-|   |-- default.html 
-|   |-- page.html  
-|   `-- post.html  
-|-- _posts  
-|   |-- 2016-01-18-gem-npm-ruby-gems-node.js.md 
-|   `-- 2016-01-18-create-commandlines-for-your-app.md
-|-- _sass
-|-- _assets  
-|   |-- css  
-|   |-- fonts
-|   |-- img
-|   |-- js 
-|   `-- post.html  
-|-- _config.yml 
-|-- _feed.yml       
-`-- index.html  
-</pre>
-
-
+# Library Amokläufer V.0.1
+Library - Rails on Ruby - Jekyll Theme
+Preview: http://www.blog.lucasgatsas.ch
 
 Clone to Desktop
-<code>git clone https://github.com/SpaceG/glas.git  </code>
-Delete the cname file. 
-
-by The Way Fork and Star this Theme. Thanks a lot for your Support. 
-if you have any question, take a issue. 
+<code>git clone https://github.com/SpaceG/library.git  </code>
+Delete the cname file.
 
 
 <code>cd Desktop </code><br>
-<code>cd glas </code><br>
+<code>cd library </code><br>
 <code>$ jekyll serve </code>
 
-watch your localhost <code><strong>127.0.0.1:8000 </strong> </code> 
+watch your localhost <code> 127.0.0.1:8080 </code>
+
+
+to but the code in a static html file :
+<code>
+{% highlight ruby linenos %}
+// array literlas
+  var = empty = [];
+  var = numbers = [
+  'zero', 'one', 'two', 'three', 'four',
+  'five', 'six', 'seven', 'eight', 'nine'
+  ];
+  empty[1] // undefined
+  numbers[1] // 'one'
+  empty.lenght // 0
+  numbers.lenght //10
+{% endhighlight %}
+
+{% highlight ruby linenos %}
+  // The Object Literal
+  var numbers_object = {
+    '0': 'zero', '1': 'one', '2': 'two',
+    '0': 'three', '4': 'four', '5': 'five',
+    '6': 'six', '7': 'seven', '8': 'eight',
+    '9': 'nine'
+  };
+{% endhighlight %}
+</code>
+
+
+
+<img src="http://blog.lucasgatsas.ch/img/lav.0.1.png" alt="Lucas Gatsas lucas gatsas" title="lucas gatsas Lucas Gatsas"  style="width:100%">
+
+
 
 The MIT License (MIT)
 
@@ -72,5 +65,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-

@@ -1,14 +1,4 @@
 /**
-
-	<!-- 
-		Theme: Glas
-		Theme: by Lucas Gatsas
-		Web: spaceg.github.io
-		Fr. 26. Feb. 2016 06:15:13
-    Update 
-    So. 9.July . 2017 08:55:44
-
-	-->
  * Table of Contents
  * ----------------------------------------------------------------------------
  * 0. Icons
@@ -35,9 +25,6 @@
  * Font Awesome by Dave Gandy | http://fontawesome.io
  * ----------------------------------------------------------------------------
  */
-
-/* Google Font Open Sans | customize here : https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:300,400,600,700,800; */ 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
 
 @font-face {
 	font-family: 'fontawesome';
@@ -369,24 +356,24 @@ table {
  */
 
 html {
-font-family: 'Open Sans', sans-serif;
+	font-family: 'Droid Serif', serif;
 }
 
 button,
 input,
 select,
 textarea {
-font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 body {
-	background-color: #fff;
+	background-color:#101010;
 	color: #666;
 	line-height: 1.66667;
 }
 
 a {
-	border-bottom: 0px solid #111;
+	border-bottom: 1px solid #111;
 	color: #111;
 	text-decoration: none;
 	-webkit-transition: all .3s;
@@ -405,7 +392,7 @@ h4,
 h5,
 h6 {
 	color: #ADADAD;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	line-height: 1.2;
 	margin: 0 0 30px;
@@ -462,11 +449,15 @@ code {
 
 pre {
 	background-color: #111;
-	color: #ccc;
-	font-size: 16px;
-	margin: 0 0 30px;
-	padding: 15px;
-	white-space: pre;
+	    color: #ccc;
+	    font-size: 16px;
+	    margin: 0 0 30px;
+	    /* padding: 15px; */
+	    white-space: pre;
+	    padding-left: 15px;
+	    padding-top: 15px;
+	    /* padding-right: 15px; */
+			border-radius: 4px;
 }
 
 pre code {
@@ -476,13 +467,13 @@ pre code {
 }
 
 blockquote {
-	border-bottom: 1px solid #eee;
-	border-top: 3px solid #eee;
-	color: #111;
+	/*border-bottom: 1px solid #eee;
+	border-top: 3px solid #eee; */
+	color: #BBB;
 	font-size: 24px;
 	font-weight: bold;
 	line-height: 1.5;
-	margin: 0 -90px 30px;
+	/*margin: 0 -90px 30px;*/
 	padding: 30px 0 40px;
 }
 
@@ -540,9 +531,9 @@ hr {
 
 table {
 	font-size: 16px;
-	line-height: 1.5;
+	/* line-height: 1.5; */
 	margin: 0 0 30px;
-	text-align: left;
+	/* text-align: left; */
 	width: 100%;
 }
 
@@ -555,7 +546,7 @@ caption {
 
 th,
 td {
-	border-bottom: 1px solid #eee;
+	border-bottom: 0px solid #eee;
 	padding: 10px 5px;
 }
 
@@ -788,11 +779,10 @@ pre .storage {
 	border: 2px solid #ccc;
 	color: #666;
 	display: inline-block;
-	font: bold 12px/1.5 'Open Sans', sans-serif;
+	font: bold 12px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	padding: 8px 15px;
 	text-transform: uppercase;
-	    border-radius: 90px;
 }
 
 .square {
@@ -889,7 +879,7 @@ pre .storage {
 
 .inner {
 	margin: 0 auto;
-	max-width: 740px;
+	max-width: 1240px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
@@ -900,7 +890,7 @@ pre .storage {
  */
 
 .site-header {
-	background-color: #fff;
+	background-color: #1A1A1A;
 	padding-bottom: 25px;
 	padding-top: 25px;
 }
@@ -926,7 +916,9 @@ pre .storage {
 
 .site-title a {
 	border: 0;
-	color: #111;
+	color: #E4E4E4;
+	font-weight:800;
+	text-transform: none;
 }
 
 .site-title img {
@@ -941,11 +933,11 @@ pre .storage {
 	position: absolute;
 	right: 30px;
 	top: 0;
-	width: 30px;	
+	width: 30px;
 }
 
 .sidebar-toggle .icon {
-	background-color: #111;
+	background-color: #D6D6D6;
 	display: block;
 	height: 2px;
 	left: 50%;
@@ -958,7 +950,7 @@ pre .storage {
 
 .sidebar-toggle .icon:before,
 .sidebar-toggle .icon:after {
-	background-color: #111;
+	background-color: #D6D6D6;
 	content: "";
 	height: 100%;
 	left: 0;
@@ -993,7 +985,7 @@ pre .storage {
 }
 
 .site-navigation .menu-item {
-	font: 12px/1.5 'Open Sans', sans-serif;
+	font: 12px/1.5 'Montserrat', sans-serif;
 	text-transform: uppercase;
 }
 
@@ -1012,7 +1004,7 @@ pre .storage {
 }
 
 .site-header .menu-item a:hover {
-	background-color: #fff;
+	background-color: #ffea00;
 }
 
 .sidebar .site-navigation .screen-reader-text {
@@ -1152,8 +1144,10 @@ pre .storage {
 }
 
 .post-title {
-	font-size: 28px;
-	margin-bottom: 10px;
+	font-size: 16px;
+	    /* margin-bottom: 10px; */
+	    padding-left: 50px;
+	    padding-top: 7px;
 }
 
 .post-title a {
@@ -1173,7 +1167,7 @@ pre .storage {
 }
 
 .tag-links {
-	font: bold 10px/1.5 'Open Sans', sans-serif;
+	font: bold 10px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 15px;
 	text-transform: uppercase;
@@ -1203,10 +1197,11 @@ pre .storage {
 
 .post-meta {
 	color: #ccc;
-	font: 12px/1.5 'Open Sans', sans-serif;
+	font: 9px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 30px;
 	text-transform: uppercase;
+	padding-left: 50px;
 }
 
 .post-meta .reading-time {
@@ -1242,7 +1237,7 @@ pre .storage {
 }
 
 .share-post {
-	font: 12px/1.5 'Open Sans', sans-serif;
+	font: 12px/1.5 'Montserrat', sans-serif;
 	color: #ccc;
 	letter-spacing: 1px;
 	margin-bottom: 60px;
@@ -1259,26 +1254,26 @@ pre .storage {
 }
 
 .author-box {
-	border: 0px solid #111;
-	margin-bottom: 60px;
-	min-height: 85px;
-	padding: 30px;
-	position: relative;
+	/*border: 3px solid #111; */
+	    /* margin-bottom: 60px; */
+	    min-height: 85px;
+	    padding: 30px;
+	    position: relative;
 }
 
 .author-box .author-avatar {
 	border-radius: 50%;
-	height: 85px;
+	height: 45px;
 	left: 30px;
 	position: absolute;
 	top: 30px;
-	width: 85px;
+	width: 45px;
 }
 
 .author-box .author-title,
 .author-box .author-description,
 .author-box .author-links {
-	margin-left: 115px;
+	margin-left: 75px;
 }
 
 .no-avatar .author-title,
@@ -1289,7 +1284,7 @@ pre .storage {
 
 .author-box .author-title {
 	color: #ccc;
-	font-size: 16px;
+	font-size: 10px;
 	letter-spacing: 1px;
 	margin-bottom: 15px;
 	text-transform: uppercase;
@@ -1298,11 +1293,12 @@ pre .storage {
 .author-box .author-description {
 	font-size: 14px;
 	margin-bottom: 15px;
+	line-height: 0;
 }
 
 .author-box .author-links {
-	color: #111;
-	font: 12px/1.5 'Open Sans', sans-serif;
+	color: #D0D0D0;
+	font: 12px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	text-transform: uppercase;
@@ -1327,18 +1323,18 @@ pre .storage {
 	box-sizing:			border-box;
 	float: left;
 	margin-bottom: 30px;
-	padding-left: 30px;
+	padding-left: 0px;
 }
 
 .grid-item,
 .home-template .grid-item:nth-child(3n+1) {
-	height: 450px;
+height: 700px;
 	width: 50%;
 }
 
 .grid-item:nth-child(3n+1),
 .home-template .grid-item:nth-child(3n+3) {
-	height: 600px;
+	/*height: 600px;*/
 	width: 100%;
 }
 
@@ -1364,8 +1360,8 @@ pre .storage {
 
 .post-inside .post-header {
 	color: #fff;
-	padding: 60px;
-	position: relative;
+    padding: 0px;
+			position: relative;
 }
 
 .post-inside .read-more {
@@ -1389,7 +1385,7 @@ pre .storage {
 	background-color: #111;
 	color: #fff;
 	display: table;
-	height: 100vh;
+	/*height: 100vh; */
 	margin-bottom: 60px;
 	position: relative;
 	width: 100%;
@@ -1398,7 +1394,6 @@ pre .storage {
 .cover.hero {
 	height: 600px;
 	margin-bottom: 30px;
-	height: 200px;
 }
 
 .cover.page-header {
@@ -1422,7 +1417,7 @@ pre .storage {
 .cover-content {
 	display: table-cell;
 	position: relative;
-	text-align: center;
+/*	text-align: center; */
 	vertical-align: middle;
 	width: 100%;
 }
@@ -1433,17 +1428,17 @@ pre .storage {
 
 .cover .inner {
 	padding-bottom: 30px;
-	padding-top: 60px;
+/*	padding-top: 60px;*/
 }
 
 .cover.hero .inner {
-	padding-left: 60px;
-	padding-right: 60px;
+	/*padding-left: 60px;
+	padding-right: 60px;*/
 }
 
 .cover.post-header .inner {
-	padding-bottom: 90px;
-	padding-top: 120px;
+/*	padding-bottom: 90px;
+	padding-top: 120px; */
 }
 
 .cover .scroll-down {
@@ -1482,7 +1477,7 @@ pre .storage {
 	-webkit-animation-name: fadeIndDown;
 	animation-name: 		fadeIndDown;
 	font-size: 18px;
-	font-style: italic;	
+	font-style: italic;
 }
 
 .hero .subscribe {
@@ -1498,7 +1493,7 @@ pre .storage {
 .post-count,
 .page-header .author-links {
 	color: #ccc;
-	font: 12px/1.5 'Open Sans', sans-serif;
+	font: 12px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 15px;
 	text-transform: uppercase;
@@ -1565,7 +1560,7 @@ pre .storage {
 
 .pagination {
 	color: #111;
-	font: 12px/1.5 'Open Sans', sans-serif;
+	font: 12px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 90px;
 	margin-top: 30px;
@@ -1596,7 +1591,7 @@ pre .storage {
 
 .post-navigation {
 	background-color: #111;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	overflow: hidden;
 }
 
@@ -1730,7 +1725,7 @@ pre .storage {
 }
 
 .widget-recent-posts {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .widget-recent-posts .recent-item {
@@ -1825,11 +1820,11 @@ pre .storage {
  */
 
 .site-footer {
-	background-color: #fff;
+	background-color: #111;
 }
 
 .footer-top {
-	border-bottom: 0px solid #000;
+/*	border-bottom: 1px solid #000;*/
 	padding-bottom: 60px;
 	padding-top: 60px;
 }
@@ -1839,13 +1834,11 @@ pre .storage {
 }
 
 .offsite-links {
-	padding-right: 0px;
-	margin: 0 auto;
-    display: table;
+	padding-right: 90px;
 }
 
 .offsite-links a {
-	background-color: #fff;
+	background-color: #060606;
 	color: #ccc;
 	float: left;
 	font-size: 14px;
@@ -1857,7 +1850,7 @@ pre .storage {
 }
 
 .offsite-links a:hover {
-	background-color: #fff;
+	background-color: #000;
 	color: #111;
 }
 
@@ -1878,8 +1871,7 @@ pre .storage {
 
 .site-info {
 	color: #666;
-
-	font: 10px/1.5 'Open Sans', sans-serif;
+	font: 10px/1.5 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	padding-bottom: 30px;
 	padding-top: 40px;
@@ -1889,8 +1881,7 @@ pre .storage {
 
 .site-info a {
 	border-color: transparent;
-	color: #000;
-	font-weight:800;
+	color: #fff;
 }
 
 .site-info a:hover {
@@ -1920,8 +1911,8 @@ pre .storage {
 	blockquote {
 		font-size: 30px;
 		line-height: 1.33333;
-		margin-left: -180px;
-		margin-right: -180px;
+	/*	margin-left: -180px;
+		margin-right: -180px;*/
 		padding-bottom: 60px;
 	}
 
@@ -1969,8 +1960,9 @@ pre .storage {
 	}
 
 	.post-title {
-		font-size: 36px;
-		margin-bottom: 15px;
+		font-size: 16px;
+    margin-bottom: 10px;
+    padding-left: 50px;
 	}
 
 	.tag-links a {
@@ -1993,11 +1985,13 @@ pre .storage {
 	.share-post,
 	.post-count,
 	.pagination {
-		/*font-size: 14px;*/
+		font-size: 8px;
+		padding-left: 50px;
 	}
 
 	.author-box .author-description {
-		font-size: 16px;
+		font-size: 10px;
+		line-height: 0;
 	}
 
 	blockquote small,
@@ -2009,13 +2003,13 @@ pre .storage {
 	.widget-title,
 	.widget-recent-posts a {
 		font-size: 18px;
-	}	
+	}
 
 	.grid-item,
 	.home-template .grid-item:nth-child(3n+1),
 	.cover.page-header {
 		height: 500px;
-    height: 450px;
+    height: 500px;
     width: 50%;
 }
 	}
@@ -2023,7 +2017,7 @@ pre .storage {
 	.grid-item:nth-child(3n+1),
 	.home-template .grid-item:nth-child(3n+3),
 	.cover.hero {
-		height: 800px;
+		/*height: 800px;*/
 	}
 
 	.author-template .grid-item,
@@ -2035,11 +2029,13 @@ pre .storage {
 	.home-template .grid-item:nth-child(3n+3) .post-title,
 	.page-title,
 	.post-template .post-title {
-		font-size: 48px;
+		font-size: 16px;
 	}
 
 	.home-template .grid-item:nth-child(3n+1) .post-title {
-		font-size: 36px;
+		font-size: 14px;
+		padding-left: 50px;
+		padding-top: 10px;
 	}
 
 	.cover .scroll-down {
@@ -2052,6 +2048,7 @@ pre .storage {
 
 	.hero-title {
 		font-size: 60px;
+		font-weight:800;
 	}
 
 	.hero-text {
@@ -2123,9 +2120,9 @@ pre .storage {
 		padding-left: 0;
 	}
 
-	.footer-widgets .footer-col.last {		
+	.footer-widgets .footer-col.last {
 		padding-right: 0;
-	}	
+	}
 }
 
 @media only screen and (max-width: 980px) {
@@ -2152,7 +2149,7 @@ pre .storage {
 
 	.grid-item:nth-child(3n+1),
 	.home-template .grid-item:nth-child(3n+3) {
-		height: 450px;
+		    height: 700px;
 	}
 
 	.author-template .grid-item,
@@ -2392,7 +2389,7 @@ pre .storage {
 	.post-grid,
 	.author-template .post-grid,
 	.tag-template .post-grid {
-	
+
 	}
 
 	.grid-item,
@@ -2429,7 +2426,7 @@ pre .storage {
 	}
 
 	.hero .cover-content {
-		text-align: center;
+	text-align: center;
 	}
 
 	.cover.hero .inner {
@@ -2463,7 +2460,7 @@ pre .storage {
 @media only  screen and (min-width:961px) and (max-width: 1400px) {
 .grid-item, .home-template .grid-item:nth-child(3n+1), .cover.page-header {
     height: 500px;
-    height: 450px;
+    height: 500px;
     width: 50%;
 }
 }
@@ -2478,87 +2475,46 @@ li.previous {
     float: right;
     list-style: none;
     padding-right: 40px;
-        list-style: none;
-    border: 2px solid #ccc;
-    color: #666;
-    display: inline-block;
-    font: bold 12px/1.5 'Open Sans', sans-serif;
-    letter-spacing: 1px;
-    padding: 8px 15px;
-    text-transform: uppercase;
-    border-radius: 90px;
 }
 li.next {
-        list-style: none;
-    border: 2px solid #ccc;
-    color: #666;
-    display: inline-block;
-    font: bold 12px/1.5 'Open Sans', sans-serif;
-    letter-spacing: 1px;
-    padding: 8px 15px;
-    text-transform: uppercase;
-    border-radius: 90px;
-}
-li.previous:hover {
-    float: right;
     list-style: none;
-    padding-right: 40px;
-        list-style: none;
-    border: 2px solid #ccc;
-    color: #fff;
-    display: inline-block;
-    font: bold 12px/1.5 'Open Sans', sans-serif;
-    letter-spacing: 1px;
-    padding: 8px 15px;
-    text-transform: uppercase;
-    border-radius: 90px;
-    background:black;
 }
-li.next:hover {
-        list-style: none;
-    border: 2px solid #ccc;
-    color: #fff;
-    display: inline-block;
-    font: bold 12px/1.5 'Open Sans', sans-serif;
-    letter-spacing: 1px;
-    padding: 8px 15px;
-    text-transform: uppercase;
-    border-radius: 90px;
-        background:black;
-
-}
-a#pagehove:hover {
-	    color: #fff;
-
-}
-
-
-
-
-
 
 a.page-link {
     font-family: Helvetica;
     text-transform: uppercase;
-    font-size: 12px;
-    padding:3px;
+    font-size: 15px;
 }div#countbox1{
 
 	  font-family: Helvetica;
     text-transform: uppercase;
     font-size: 15px;
 }
-a#glas-logo-1 {
-    font-size: 35px;
-    font-family: Times;
-    font-weight:normal;
-        text-transform: none;
+
+li#library_____front_____code____lister {
+    list-style: none;
 }
-a.button.light1 {
-    border-color: #000;
-    color: #000;
+
+
+/*links for post site author link etc. */
+a#library___link___1 {
+    color: rgba(255, 255, 255, 0.62);
 }
-a.button.light1:hover {
-    border-color: #000;
-    color: #fff;
+a#library___link___1:hover {
+    color: white;
+}
+
+
+code#git___clone___desktop {
+    font-size: 12px;
+    background-color: #252525;
+    color: #FFDF2B;
+}
+
+@media only  screen and (max-width:600px) {
+	code#git___clone___desktop {
+	    font-size: 9px;
+	    background-color: #252525;
+	    color: #FFDF2B;
+	}
 }
