@@ -34,26 +34,26 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: jursurcur
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: jursurcur
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: jessica-d-lee
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: jursurcur
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: leejessica.ht@gmail.com
 
 authors:
-    johndoe:
+    #johndoe:
         name: Jessica Lee
         bio: A Man who travels the world eating noodles
         external-image: false
