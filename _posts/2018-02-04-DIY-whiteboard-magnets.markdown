@@ -26,7 +26,8 @@ I got the idea to make custom magnets when I went to Texas Art Supply with Kira,
 
 I then started brainstorming inside jokes to base my magnets off of. Over the past year, Aidan and I have created our own catchphrases, including some in Chinese. The hardest part was illustrating text. I had to get real creative with color theory and texture, but I learned a couple techniques in Illustrator, and I also downloaded open sourced brush libraries.
 
-![compiled magnets](/assets/images/compiled-magnets.png)
+![compiled magnets](/assets/images/compiled-magnets.jpg)
+
 <figcaption class="caption">Disclaimer: I did not design the Apple emojis, sad Chipotle cow, Nintendo shroom, Skype moji, and stuffed rabbit. I also adapted the lightening bolts, molecular structure of caffeine, hedgehog, and Texas outline due to time constraints.</figcaption>
 
 I learned to create a hatched drop shadow text effect through this YouTube [tutorial](https://www.youtube.com/watch?v=PVij2CNspjE), and the colorful transparent overlay effect is done by changing the transparency settings from "normal" to "multiply." For this project, I worked exclusively with these [Stipple Shading](https://blog.spoongraphics.co.uk/freebies/8-free-stipple-shading-brushes-for-adobe-illustrator) and [Doodle Sketch](http://www.melsbrushes.co.uk/free-illustrator-brushes-natural-sketch-doodle-lines-set/) brushes.
