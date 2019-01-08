@@ -1,0 +1,16 @@
+---
+title: "Hexatri"
+layout: post
+date: 2016-10-25 18:20
+tag:
+- clubs
+- design
+- logo
+projects: false
+hidden: true # don't count this post in blog pagination
+description: "2017 iGEM logo."
+category: project
+author: Jessica Lee
+---
+![logo](/assets/images/hexatri-logo.png)
+![sweatshirt](/assets/images/hexatri-sweatshirt.jpg)

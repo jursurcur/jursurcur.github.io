@@ -1,0 +1,69 @@
+---
+title: "How I Got into FlexMed"
+layout: post
+date: 2018-12-24 10:13
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- FlexMed
+- medicalschool
+category: blog
+author: Jessica Lee
+description: "Where I spill the tea on FlexMed."
+---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTTTQUXxDAEQcxIf9TWueorcnElIbB1QliDcFsn7nPNGLQdzSpv8oneeeW80r8e57POjKin0JnZDpTD/embed?start=false&loop=false&delayms=30000" frameborder="0" width="710" height="428" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## What is FlexMed?
+[FlexMed](https://icahn.mssm.edu/education/medical/md-program/flexmed) is an early admissions program at the Icahn School of Medicine at Mount Sinai in New York for college Sophomore applicants of any majors, concentrating in biomedical sciences, humanities and social sciences, and computational sciences and engineering. Once accepted, students are unencumbered by traditional premed requirements (i.e. STEM curriculum, MCAT, applications, and interviews) and free to pursue their passions.
+
+## Is FlexMed for me?
+However, FlexMed is not for everyone. DO NOT apply to FlexMed if you don't:
+1. <b>have passions, preferably academic, outside of medicine.</b> If you fit the premed stereotype, you're more likely to be at a disadvantage. I'm not saying that applicants concentrating in biomedical sciences do not get admitted. In fact, 19 out of 54 admits in 2016 majored in the biomedical sciences. However, I'm sure those admits had interests outside their STEM curriculum and wet lab research that made them competitive. (The one exception is students, like me, who have that profile and are admitted because Sinai's adcom believes they are strong applicants for their MD/PhD program.) As its name suggests, FlexMed affords flexibility for students to develop their passions during the last two years of undergrad before medical school. Examples include but are not limited to:
+* pursuing an academic interest (i.e. BS over BA, additional major/minor/certificate, research, etc.)
+* starting or continuing an organization (i.e. startup, business, nonprofit, community service, university club, etc.)
+* taking a gap year or studying abroad
+2. <b>want to work hard after being admitted.</b> If you're planning to slack after being admitted, you probably won't be admitted in the first place. Adcom admits students that are already pursuing their passions and will continue to pursue them regardless of their admissions offer. I get annoyed whenever my peers keep reminding, "but you're already in medical school," as if I should drop out of undergrad and chill lol.
+3. <b>want to attend a medical school located in New York City.</b> Who doesn't? Sinai borders the Upper East Side, which is among the most affluent neighborhoods in the country, and East Harlem, which is one of the most medically underserved. However, medical school is another four years, and if you don't want to be far from home, location is a concern. As a resident, you could probably save a lot of money by attending an in-state public medical school. Sinai's cost of attendance [($78,587 in 2018-2019)](https://icahn.mssm.edu/files/ISMMS/Assets/Education/Graduate/MD_18-19Budget.pdf) and NYC cost of living are both expensive. Additionally, FlexMed IS binding. Once you sign the contract, you may not take the MCAT nor apply to other medical schools. Of course, you can break the contract but at the cost of your admissions.
+4. <b>want to spend your winter break working on the application.</b> Yes, you will be spending quite some time on the application especially if you want to get in. You will write essays (3), complete an activities section (up to 15), and submit SAT or ACT test scores, high school and undergrad transcripts, and letters of recommendation (3).
+5. <b>want to become a doctor.</b> I think this is pretty obvious, but FlexMed does attract students who are interested in more than just medicine.
+
+## Step One: Step One: Online Application (Now-January 15)
+
+## Step Two: Interview Invite (March) and Interview (April-May)
+I didn’t really prepare for my interview because I’m pretty good at talking to people. I did reach out to a classmate in the year above me who was accepted into FlexMed. I was nervous that the FlexMed interview would be like traditional medical school interviews. Lucky or unlucky (who r u) for you, this interview is nothing like those. I was freaking out in the days before because I didn’t know much about healthcare (laws, politics, etc.), so I couldn’t knowledgeably speak about current issues in U.S. healthcare, moreover, suggest ways to reform without seeming like I was BS-ing my way through this. I was very surprised by how little we talked about medicine, healthcare, and my role in these settings. The interviews are structured like job interviews, and you should definitely expect typical questions along the lines of:
+* What are three words your friends will use to describe you and why? What are your strengths? What are your weaknesses? Give examples of all.
+* What’s your Flex plan?
+* Questions that clarify your application.
+The interview timing wasn’t great. The interview was at 8 AM on Friday April 14, which was two weeks before finals. I arrived in NYC on Thursday April 13 with my mom. You have the option of staying in a medical student’s dorm, but I opted out for an Airbnb that is a 5-minute walk to Sinai. I always need a good night’s rest before exams, and I figured I’d be sleeping on the floor in a sleeping bag if I stayed at Sinai. Besides, you’re not missing out much because you do end up meeting medical students (including those admitted through FlexMed) and getting to tour the dorm (which is amazing). I actually spent Thursday walking around the Central Park area, doing a self-tour of Sinai so I could actually locate my interview location beforehand, and just relaxing.
+
+<b>Timeline of the Day of:</b>
+1. 8AM: Arrive before this time! If you’re coming straight from the airport or need to leave straight to the airport afterwards, they have a closet where you can leave your coats and suitcases. If your parent accommodates you, tell them you’ll meet them later. No one else’s parents were there because everyone was all from the East Coast (no southerners ), or they stayed with a medical student. They served continental breakfast and start off the day with an informational video about Sinai. The Dean of Admissions (Dean Parkas) and Program Administrator (Jackie) tell you about the history of Sinai and FlexMed. You will each get your own folders with information on when your two interviews of the day are and with whom. I’d recommend dressing really nicely. There are 12 people (max) in each interview cohort (day). I’d estimate that 80+% of the 50 FlexMed admits attend an Ivy League. There was someone from Dartmouth, Duke, Georgia Tech, Georgetown, Harvard, Johns Hopkins (2), New York University, Rice, University of Southern California, Williams College, and Yale. But in my room, Dartmouth, Georgetown, and Rice were accepted. I later learned the overall acceptance rate was 1 to 3 or 1 to 4.
+2. 9AM-11:30AM: Everyone has interviews at different times and with different people. Luckily both of mine were back to back, and I got them over with pretty quickly. Each interviewer interviews about 3 of us. I printed out resumes. My first interviewer knew my profile and declined. My second interviewer did not look at my profile beforehand and briefly looked over my resume. Regardless, I think it’s good to have it on hand. Some people brought props like a book or their portfolio. Whether that helped them or not, I’m not sure. Once I finished my interview, I just chatted with other applicants, ate food, and took some swag. They have a lot which worked out for me once I was accepted. Also, current medical students and those who were accepted through FlexMed came in to chat with us as well.
+3. 11:30AM-12PM: We ate lunch with medical students. For those with dietary restrictions, I forget if you can notify them through the portal.
+4. 12PM-1/1:30PM?: The medical students took us on a tour of the medical school, including classrooms, anatomy lab, the library, and the gift store. They told us that each Sinai student gets a blue tumbler, which gives them access to unlimited, free coffee at any Sinai-owned café. They also talked about student life. All exams are pass/fail and take home. You just have to submit them before the weekend ends. Also, every week has a designated “flex” time where students have that time to themselves to explore NYC, sleep (me, lol), or do whatever they want. If you’re not a morning person, all classes are recorded, and attendance is not mandatory except for anatomy lab. Overall, I got really chill and happy vibes from Sinai. The environment is important especially if you want to survive medical school. We also got to check out their dorm, which is a crosswalk away from the medical school. They have their own security, gym, outdoor basketball courts/patio, and more. They also have apartments for couples. If your spouse is non-Sinai affiliated, that’s ok! These dorms are much better than the ones at my university, and the best part is they’re subsidized by Sinai! You get to go to a top-20 medical school in Upper East Side Manhattan for $600/month. Every person gets a single at the very least. No more shared rooms! I toured an apartment-styled suite. Each four-bedroom suite has its own (or two?) bathroom, living room, and kitchen.
+5. Final remarks: Jackie will congratulate you for making it through. She’ll then tell you not to expect anything from the admissions office until July 1st, which is when the admissions decisions are released (though, historically, they have been released a few days prior). You do have the option to submit an update by email. Even if you don’t have anything “significant” to update, I would still try to. You can ask me for advice on how to write a good update. She’ll also mention that there are resources in the packet to help you get to know Sinai especially with regards on how to finance tuition, which is expensive. Jackie reassured everyone that he or she was amazing for making it this far and shouldn’t take a rejection as an indication they won’t get into medical school during regular admissions.
+
+<b>Logistics</b>
+There are 2 interviews. Each interview is budgeted for 30 minutes. Each interview is with a single person whether that be someone from the admissions committee, a professor at the medical school, or a current medical student. There are usually 750-1000 applicants. 150-200 get accepted for an interview. 50 get into the program. As you can see, at max competitiveness, getting into FlexMed is about a 5% chance.
+
+<b>Questions that I Definitely Remember:</b>
+
+Senior Associate Dean for Admissions
+* Tell me about a time when you were disappointed in yourself.
+* Tell me about a time when you were a leader in a group setting.
+* Though you have a lot of research experience, I noticed you didn’t have as many shadowing or volunteering experiences in clinical settings. Why are you interested in pursuing a career in medicine? Why not only research? Do you plan on gaining more clinical exposure before medical school?
+* Are you interested in pursuing a MD/PhD? (specific to me)
+
+Surgical Director of the Kidney and Pancreas Transplant Program at Mount Sinai’s Recanati/Miller Transplantation Institute
+
+<i>Note: he was literally reading off a sheet of questions. He had not reviewed my application beforehand. I handed him my resume, and he briefly looked over it. We actually spent most of the interview discussing his road to a career in transplant surgery because I’m very interested in immunology, specifically transplant surgery (which I was very interested in at that time). We also discussed if a MD/PhD was necessary (lol), and how getting a dual degree would fit in with a career in transplants.</i>
+* Tell me about a time when you interacted with people of different backgrounds.
+* What makes you a candidate for FlexMed? What are your post-FlexMed plans?
+* Are you interested in pursuing a MD/PhD? (specific to me)
+<i>Note: he almost forgot to ask this question he was “required” to by the admissions committee. This makes me think they have tailored questions (to every applicant’s profile) in addition to the generic questions on the sheet.</i>
+
+Know what you’re passionate about (and seem really confident), know your Flex plan (even though it’s all hypothetical), and if your Flex plan isn’t very related to medicine, you NEED to justify why Sinai should give you a flexible 2 years (of no worrying about the MCAT and applying/interviewing for medical schools) to pursue your non-traditional interest and how this pursuit fits into your path to becoming a physician and having a career in medicine.
+
+## Step Three: Acceptance (by July 1)
+
+## Step Four: Flex Plan (Junior and Senior Year)

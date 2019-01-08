@@ -1,0 +1,15 @@
+---
+title: "iGEM"
+layout: post
+date: 2016-10-25 14:51
+tag:
+- banner
+- clubs
+- design
+projects: false
+hidden: true # don't count this post in blog pagination
+description: "2016 and 2017 iGEM."
+category: project
+author: Jessica Lee
+---
+![banner](/assets/images/igem-banner.jpg)
